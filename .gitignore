@@ -1,0 +1,21 @@
+# Dataset folders
+imagesTr/
+imagesTs/
+labelsTr/
+labelsTs/
+
+# Mac OS files
+.DS_Store
+._*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDEs and environments
+.vscode/
+.idea/
+.venv/
+venv/
+env/
+ENV/

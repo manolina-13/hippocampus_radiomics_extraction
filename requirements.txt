@@ -1,0 +1,4 @@
+numpy
+SimpleITK
+pyradiomics
+pandas

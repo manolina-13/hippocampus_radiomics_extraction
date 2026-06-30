@@ -251,3 +251,13 @@ Note: Z-score normalization (`sitk.Normalize`) is applied before PyRadiomics run
 - [PyRadiomics Documentation](https://pyradiomics.readthedocs.io/)
 - [MSD Dataset105 — Hippocampus](http://medicaldecathlon.com/)
 - [SimpleITK Documentation](https://simpleitk.readthedocs.io/)
+
+---
+## License
+
+This project is distributed under the MIT License. See `LICENSE` for more information.
+
+---
+## Contact
+
+Manolina Das - [GitHub Profile](https://github.com/manolina-13)
